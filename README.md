@@ -7,6 +7,6 @@ The tool collection combines
 
 ---
 
-developed by: @gnomeengineer
+developed by: @gnomengineer
 
-translated by: @gnomeengineer
+translated by: @gnomengineer
