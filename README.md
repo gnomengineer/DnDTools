@@ -2,11 +2,11 @@
 
 The tool collection combines
 
-* translation and gathering of all specialities 
+* a collection of all specialities in the players handbook translated to german
 * exp calculator for additional XP after an adventur
 
 ---
 
-developed by: @gnomengineer
+tools developed by: @gnomengineer
 
-translated by: @gnomengineer
+original text translated by: @gnomengineer
